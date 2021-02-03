@@ -1,6 +1,6 @@
 # DipakTask
 
-- model view view model pattern
+- model view view model pattern (MVVM)
 - live data
 - repository pattern
 - dagger
